@@ -1,4 +1,4 @@
-import Calculator.*;
+import CalculatorEssentials.*;
 import java.util.Scanner;
 
 public class Calculator
