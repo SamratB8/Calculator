@@ -1,6 +1,5 @@
 # Calculator
 A small lightweight Calculator.
-v2.10
 
 
 Welcome to the Calculator Program!
