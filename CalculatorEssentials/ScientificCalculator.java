@@ -167,6 +167,9 @@ public class ScientificCalculator
                 System.out.println("Invalid operation");
         }
 
-        System.out.println("Result: " + result);
+        if (operation < 13)
+        {
+            System.out.println("Result: " + result);
+        }
     }
 }
